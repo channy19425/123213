@@ -1,0 +1,68 @@
+ 
+            
+            .partywritecon{
+                border:1px solid white;
+                width:80%;
+                margin:0 auto;
+                padding: 50px 0px 50px 0px; 
+                text-align:left;
+                font-family:"Noto Sans KR";
+                font-size:10pt;
+                position: relative;
+            }
+            
+            .category{
+               font-weight: bold;
+               font-size:12pt;
+               text-align: left!important;
+            }
+            
+            .partywritecontent{
+               border:1px solid #ccc;
+               border-top:none;
+               border-left:none;
+               border-right: none;
+               padding:40px 0px 40px 0px;
+            }
+            
+            .partyshortsel{
+               width:200px !important;
+               display: inline !important;
+            }
+            
+            .partyradio{
+               accent-color:#4880E0; 
+               width: 15px;
+               height: 15px;
+            }
+            
+            .genderbox{
+               border:none;
+               display:inline;
+               margin-left:30px;
+               font-size:11pt;
+            }
+                        
+            .locationbox{
+               margin-top:20px;
+            }
+            
+            .busize-up{
+               padding:5px 18px!important;
+               font-size:16pt!important;
+                font-family:"Noto Sans KR!important";
+            }
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
